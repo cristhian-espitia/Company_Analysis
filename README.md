@@ -27,3 +27,14 @@ the unified table or the final table is the following:
 [![Tabla-unificada.png](https://i.postimg.cc/ZnL3ymTh/Tabla-unificada.png)](https://postimg.cc/2LV3PPbH)                 
 ---
 The downloadable data can be obtained from the following link: https://github.com/cristhian-espitia/Company_Analysis/blob/main/Datos/df_best_company.xlsx
+
+---
+Display
+---
+Once this table is obtained, we can carry out the following analyses:
+
+---
+[![VISUALIZACION.png](https://i.postimg.cc/BQ7Vkf06/VISUALIZACION.png)](https://postimg.cc/2VvGLJ3R)
+
+The file can be viewed at the following link: https://app.powerbi.com/groups/me/reports/5cb40eab-fe85-4e01-8e41-bc2c6b84a4e6?ctid=bd86d5e1-bd2c-4cfc-9ad5-b9d2e01af30e&pbi_source=linkShare
+
