@@ -24,10 +24,6 @@ In order to obtain an analysis that can produce and answer the questions to unde
 
 the unified table or the final table is the following:
 
-[![Tabla-unificada.png](https://i.postimg.cc/ZnL3ymTh/Tabla-unificada.png)](https://postimg.cc/2LV3PPbH)
+[![Tabla-unificada.png](https://i.postimg.cc/ZnL3ymTh/Tabla-unificada.png)](https://postimg.cc/2LV3PPbH)                 
 ---
-Los datos descargables se pueden obtener del siguiente enlace😀https://github.com/cristhian-espitia/Company_Analysis/blob/main/Datos/BEST_COMPANY.pbix                        
-
-
-
-
+The downloadable data can be obtained from the following link:
