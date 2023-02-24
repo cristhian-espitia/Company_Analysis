@@ -16,4 +16,12 @@ Data
 
 **5.** Absenteeism_Disability.xlsx: Historical table with information on absenteeism hours and disability hours, for each person (Jan19 – Jun20 time period).
  # Dimension Model
- 
+ [![RELACIONES.png](https://i.postimg.cc/rsMY58LV/RELACIONES.png)](https://postimg.cc/DJpgT3ZH)
+---
+Model Get Analysis Table
+---
+In order to obtain an analysis that can produce and answer the questions to understand the data, it is necessary to arrive at a table that directly unifies the relational database, which we can obtain with the EMPRESA.ipynb file (This model can also be imported into a data base)
+
+the unified table or the final table is the following:
+
+[![Tabla-unificada.png](https://i.postimg.cc/ZnL3ymTh/Tabla-unificada.png)](https://postimg.cc/2LV3PPbH)
