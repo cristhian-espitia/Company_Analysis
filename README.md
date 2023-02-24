@@ -25,3 +25,5 @@ In order to obtain an analysis that can produce and answer the questions to unde
 the unified table or the final table is the following:
 
 [![Tabla-unificada.png](https://i.postimg.cc/ZnL3ymTh/Tabla-unificada.png)](https://postimg.cc/2LV3PPbH)
+---
+The downloadable data can be obtained from the following link:
